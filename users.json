@@ -1,6 +1,4 @@
-{
-  "data": [
-           
+[           
 {
 "name": "Shahryar Ali",
 "id":1
@@ -15,6 +13,4 @@
 {"name":"Mahir Ali",
  "id":4
 }
-],
-"error": null
-}
+]
