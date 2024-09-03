@@ -1,0 +1,8 @@
+{
+"isSuccess": false,
+"data": null,
+"error": {
+  "code": 500,
+  "message": "Internal Server Error"
+}
+}
